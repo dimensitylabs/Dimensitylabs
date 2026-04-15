@@ -19,7 +19,7 @@ export function createHeadlineReveal(
   options: {
     duration?: number
     stagger?: number
-    ease?: string | number[]
+    ease?: gsap.TweenVars['ease']
     start?: string
   } = {}
 ): ScrollTrigger {
@@ -49,7 +49,7 @@ export function createHeadlineReveal(
     y: '0%',
     duration,
     stagger,
-    ease: ease as number[],
+    ease,
   })
 
   return tl.scrollTrigger as ScrollTrigger

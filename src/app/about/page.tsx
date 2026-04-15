@@ -35,17 +35,7 @@ export default function AboutPage() {
               {values.map((value, i) => (
                 <div key={value.title} className="group flex flex-col gap-md">
                   <span
-                    className="text-olive-drab text-[20px] inline-block transition-all duration-300 ease-out group-hover:scale-[1.4] origin-center"
-                    style={{
-                      transform: 'rotate(0deg)',
-                      ['--tw-rotate' as string]: `${i % 2 === 0 ? 5 : -5}deg`,
-                    }}
-                    onMouseEnter={(e) => {
-                      e.currentTarget.style.transform = `scale(1.4) rotate(${i % 2 === 0 ? 5 : -5}deg)`
-                    }}
-                    onMouseLeave={(e) => {
-                      e.currentTarget.style.transform = 'scale(1) rotate(0deg)'
-                    }}
+                    className={`text-olive-drab text-[20px] inline-block transition-all duration-300 ease-out group-hover:scale-[1.4] origin-center ${i % 2 === 0 ? 'group-hover:rotate-[5deg]' : 'group-hover:rotate-[-5deg]'}`}
                   >
                     {value.symbol}
                   </span>
