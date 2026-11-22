@@ -516,4 +516,4 @@ Both use `export const dynamic = 'force-static'` — no server-side fetching nee
 ---
 
 *Dimensity Labs · folderstructure.md · Version 1.0 · 2025*
-*Questions: hello@dimensitylabs.dev*
+*Questions: dimensitylabs.work@gmail.com*

@@ -77,10 +77,10 @@ function ContactForm() {
               <p className="font-syne text-body text-[var(--color-text-secondary)] max-w-[440px]">
                 Fill out the form and we will get back to you within 24 hours. Or reach us directly at{' '}
                 <a
-                  href="mailto:hello@dimensitylabs.dev"
+                  href="mailto:dimensitylabs.work@gmail.com"
                   className="underline underline-offset-4 hover:text-[var(--color-text-primary)] transition-colors duration-slow"
                 >
-                  hello@dimensitylabs.dev
+                  dimensitylabs.work@gmail.com
                 </a>
               </p>
             </div>

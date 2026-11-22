@@ -30,7 +30,7 @@ export async function POST(request: Request) {
     // Send email via Resend
     const { error } = await resend.emails.send({
       from: process.env.FROM_EMAIL || 'onboarding@resend.dev',
-      to: process.env.TO_EMAIL || 'hello@dimensitylabs.dev',
+      to: process.env.TO_EMAIL || 'dimensitylabs.work@gmail.com',
       subject: `New Contact Form Submission: ${service}`,
       text: `
 Name: ${name}

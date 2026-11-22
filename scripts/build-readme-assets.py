@@ -435,9 +435,9 @@ def cta(c: dict) -> str:
 <text x="918" y="324" class="sans" font-size="14" font-weight="700" letter-spacing="3.5" fill="{bg}">START A PROJECT</text>
 <g class="nudge"><path d="M1160 318H1188M1179 309l9 9-9 9" fill="none" stroke="{bg}" stroke-width="1.8"/></g>
 <line x1="64" y1="398.5" x2="1216" y2="398.5" stroke="{ln}"/>
-<text x="64" y="436" class="mono" font-size="14" fill="{fg}">hello@dimensitylabs.dev<tspan class="blink">_</tspan></text>
+<text x="64" y="436" class="mono" font-size="14" fill="{fg}">dimensitylabs.work@gmail.com<tspan class="blink">_</tspan></text>
 <text x="1216" y="436" text-anchor="end" class="mono" font-size="14" fill="{fg}">dimensitylabs.dev  ↗</text>"""
-    return svg(H, "Got an idea? Let's build it. Start a project — hello@dimensitylabs.dev", body, css)
+    return svg(H, "Got an idea? Let's build it. Start a project — dimensitylabs.work@gmail.com", body, css)
 
 
 PANELS = {"hero": hero, "marquee": marquee, "capabilities": capabilities, "method": method,

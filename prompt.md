@@ -807,7 +807,7 @@ Right col — Info:
       Each: line icon (16px) + label, hover Olive Drab
     
     Email:
-      Syne 13px: hello@dimensitylabs.dev
+      Syne 13px: dimensitylabs.work@gmail.com
       (clickable mailto:)
 ```
 
@@ -998,8 +998,8 @@ All data is typed with Zod schemas as the source of truth.
 ```bash
 # .env.local (for contact form — use Resend or Nodemailer)
 RESEND_API_KEY=
-FROM_EMAIL=hello@dimensitylabs.dev
-TO_EMAIL=hello@dimensitylabs.dev
+FROM_EMAIL=dimensitylabs.work@gmail.com
+TO_EMAIL=dimensitylabs.work@gmail.com
 ```
 
 Contact form → `app/api/contact/route.ts` → POST endpoint → Resend email API.
@@ -1039,4 +1039,4 @@ Contact form → `app/api/contact/route.ts` → POST endpoint → Resend email A
 ---
 
 *Dimensity Labs · prompt.md · Version 1.0 · 2025*
-*Questions: hello@dimensitylabs.dev*
+*Questions: dimensitylabs.work@gmail.com*

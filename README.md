@@ -14,7 +14,7 @@
   <a href="https://dimensitylabs.dev"><b>Website</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://www.linkedin.com/company/dimensitylabs"><b>LinkedIn</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://x.com/dimensitylabs"><b>X</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="mailto:hello@dimensitylabs.dev"><b>hello@dimensitylabs.dev</b></a>
+  <a href="mailto:dimensitylabs.work@gmail.com"><b>dimensitylabs.work@gmail.com</b></a>
 </p>
 
 <picture>

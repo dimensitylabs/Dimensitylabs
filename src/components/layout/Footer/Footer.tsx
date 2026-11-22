@@ -89,10 +89,10 @@ function Footer() {
                 </a>
               ))}
               <a
-                href="mailto:hello@dimensitylabs.dev"
+                href="mailto:dimensitylabs.work@gmail.com"
                 className="font-syne text-[13px] text-bone opacity-60 hover:opacity-100 transition-opacity duration-slow mt-sm"
               >
-                hello@dimensitylabs.dev
+                dimensitylabs.work@gmail.com
               </a>
             </div>
           </div>
