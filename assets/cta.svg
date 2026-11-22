@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-label="Ready to build something remarkable">
+  <defs>
+    <style>
+      .sans{font-family:Arial,Helvetica,sans-serif}
+      .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+      @keyframes shimmer{
+        0%{transform:translateX(-120%)}
+        100%{transform:translateX(220%)}
+      }
+      @keyframes soft{0%,100%{box-shadow:0 0 0 0 #ff6b9d}50%{opacity:1}}
+      .shine{animation:shimmer 3.2s ease-in-out infinite}
+      @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+    </style>
+    <linearGradient id="btnShine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="280" fill="#000101"/>
+  <rect x="64" y="40" width="1072" height="200" rx="8" fill="#020204" stroke="#101215"/>
+
+  <text x="600" y="110" text-anchor="middle" class="sans" font-size="34" font-weight="700" fill="#ffffff">Ready to build something remarkable?</text>
+  <text x="600" y="148" text-anchor="middle" class="sans" font-size="15" fill="#757168">Partner with Dimensity Labs — Built with Integrity</text>
+
+  <g>
+    <rect x="430" y="172" width="160" height="40" rx="20" fill="#ecebe7"/>
+    <rect x="430" y="172" width="40" height="40" rx="20" fill="url(#btnShine)" class="shine"/>
+    <text x="510" y="197" text-anchor="middle" class="sans" font-size="13" font-weight="700" fill="#000101">Start a project</text>
+
+    <rect x="610" y="172" width="160" height="40" rx="20" fill="none" stroke="#ecebe7" stroke-width="1.5"/>
+    <text x="690" y="197" text-anchor="middle" class="sans" font-size="13" font-weight="600" fill="#ecebe7">Book a call</text>
+  </g>
+</svg>

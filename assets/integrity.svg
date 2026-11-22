@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-label="Built with Integrity">
+  <defs>
+    <style>
+      .sans{font-family:Arial,Helvetica,sans-serif}
+      .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+      @keyframes glowPulse{0%,100%{opacity:.25}50%{opacity:.55}}
+      @keyframes ring{0%{transform:scale(.92);opacity:.8}100%{transform:scale(1.35);opacity:0}}
+      .aura{animation:glowPulse 4s ease-in-out infinite}
+      .ring{animation:ring 2.8s ease-out infinite;transform-origin:600px 180px}
+      @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+    </style>
+    <radialGradient id="core" cx="50%" cy="42%" r="40%">
+      <stop offset="0%" stop-color="#ff6b9d" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#000101" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="420" fill="#000101"/>
+  <rect width="1200" height="420" fill="url(#core)" class="aura"/>
+
+  <circle cx="600" cy="180" r="70" fill="none" stroke="#ff6b9d" stroke-width="1" class="ring" opacity="0.5"/>
+  <circle cx="600" cy="180" r="28" fill="#ff4d88" opacity="0.35" class="aura"/>
+  <circle cx="600" cy="180" r="8" fill="#ffb3cc"/>
+
+  <line x1="560" y1="56" x2="640" y2="56" stroke="#ecebe7" stroke-width="1.5"/>
+  <text x="600" y="90" text-anchor="middle" class="mono" font-size="12" letter-spacing="4" fill="#757168">TAGLINE</text>
+
+  <text x="600" y="200" text-anchor="middle" class="sans" font-size="56" font-weight="700" fill="#ffffff">Built with Integrity.</text>
+  <text x="600" y="250" text-anchor="middle" class="sans" font-size="16" fill="#757168">Data protection · Full transparency · Production-grade QA</text>
+
+  <g>
+    <rect x="120" y="300" width="280" height="72" rx="4" fill="#020204" stroke="#101215"/>
+    <text x="260" y="332" text-anchor="middle" class="sans" font-size="15" font-weight="600" fill="#ecebe7">You own the IP</text>
+    <text x="260" y="356" text-anchor="middle" class="mono" font-size="11" fill="#757168">NDA-FIRST</text>
+
+    <rect x="460" y="300" width="280" height="72" rx="4" fill="#020204" stroke="#101215"/>
+    <text x="600" y="332" text-anchor="middle" class="sans" font-size="15" font-weight="600" fill="#ecebe7">Senior-only team</text>
+    <text x="600" y="356" text-anchor="middle" class="mono" font-size="11" fill="#757168">NO JUNIOR ROTATION</text>
+
+    <rect x="800" y="300" width="280" height="72" rx="4" fill="#020204" stroke="#101215"/>
+    <text x="940" y="332" text-anchor="middle" class="sans" font-size="15" font-weight="600" fill="#ecebe7">Compliance ready</text>
+    <text x="940" y="356" text-anchor="middle" class="mono" font-size="11" fill="#757168">GDPR · CCPA</text>
+  </g>
+</svg>

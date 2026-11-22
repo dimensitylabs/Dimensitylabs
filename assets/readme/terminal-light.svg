@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="480" viewBox="0 0 1280 480" role="img" aria-label="$ npx dimensity init your-idea — discovery &amp; strategy: scoped · design &amp; development: senior-only · ai integration: production-ready · launch &amp; support: 24/7 · code &amp; ip: yours">
+<style>
+.serif{font-family:'Cormorant Garamond',Cormorant,Georgia,'Times New Roman',serif}
+.sans{font-family:Syne,'Helvetica Neue',Helvetica,Arial,sans-serif}
+.mono{font-family:'JetBrains Mono','SF Mono',SFMono-Regular,Menlo,Consolas,monospace}
+.l0{animation:l0 14s infinite}@keyframes l0{0%,31%{opacity:1}31.5%,33%{opacity:0}33.2%,100%{opacity:1}}.l1{animation:l1 14s infinite}@keyframes l1{0%,31%{opacity:1}31.5%,55%{opacity:0}55.2%,100%{opacity:1}}.l2{animation:l2 14s infinite}@keyframes l2{0%,31%{opacity:1}31.5%,59%{opacity:0}59.2%,100%{opacity:1}}.l3{animation:l3 14s infinite}@keyframes l3{0%,31%{opacity:1}31.5%,63%{opacity:0}63.2%,100%{opacity:1}}.l4{animation:l4 14s infinite}@keyframes l4{0%,31%{opacity:1}31.5%,67%{opacity:0}67.2%,100%{opacity:1}}.l5{animation:l5 14s infinite}@keyframes l5{0%,31%{opacity:1}31.5%,71%{opacity:0}71.2%,100%{opacity:1}}.l7{animation:l7 14s infinite}@keyframes l7{0%,31%{opacity:1}31.5%,79%{opacity:0}79.2%,100%{opacity:1}}.l8{animation:l8 14s infinite}@keyframes l8{0%,31%{opacity:1}31.5%,84%{opacity:0}84.2%,100%{opacity:1}}
+.type{animation:type 14s infinite}
+@keyframes type{0%,31.4%{transform:translateX(302.4px)}31.5%,36%{transform:translateX(0);animation-timing-function:steps(28,end)}50%,100%{transform:translateX(302.4px)}}
+.tcur{animation:tcur 14s infinite}
+@keyframes tcur{0%,31.4%{opacity:0}31.5%,51%{opacity:1}51.5%,100%{opacity:0}}
+.blink{animation:blink 1s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect width="1280" height="480" fill="#FFFBF4"/>
+<rect x="64.5" y="24.5" width="1151" height="431" rx="6" fill="#F7F2E8" stroke="#D8CFBC"/>
+<circle cx="90" cy="46" r="5.5" fill="#D8CFBC"/><circle cx="108" cy="46" r="5.5" fill="#8A8676"/><circle cx="126" cy="46" r="5.5" fill="#565449"/>
+<text x="640" y="50" text-anchor="middle" class="mono" font-size="12" fill="#8A8676">dimensity — ~/your-idea — zsh</text>
+<line x1="65" y1="68.5" x2="1215" y2="68.5" stroke="#D8CFBC"/>
+<g transform="translate(830 92) scale(1.65)">
+<path fill="#EFE8DA" d="M38 30 H100 A70 70 0 0 1 100 170 H38 Z"/>
+<rect x="96" y="30" width="8" height="140" fill="#F7F2E8"/>
+<rect x="38" y="96" width="132" height="8" fill="#F7F2E8"/>
+<circle cx="68" cy="136" r="18" fill="#F7F2E8"/>
+<circle cx="160" cy="168" r="7" fill="#EFE8DA"/>
+</g>
+<g class="l0"><text x="104" y="128" class="mono" font-size="18" xml:space="preserve"><tspan fill="#8A8676">$ </tspan><tspan fill="#11120D">npx dimensity init your-idea</tspan></text><g class="type"><rect x="124.6" y="107" width="316.4" height="29" fill="#F7F2E8"/><rect class="tcur" x="125.6" y="111" width="10" height="22" fill="#11120D"/></g></g><text class="l1 mono" x="104" y="162" font-size="18" xml:space="preserve"><tspan fill="#565449">  ✓ </tspan><tspan fill="#11120D">discovery &amp; strategy    </tspan><tspan fill="#8A8676">scoped</tspan></text><text class="l2 mono" x="104" y="196" font-size="18" xml:space="preserve"><tspan fill="#565449">  ✓ </tspan><tspan fill="#11120D">design &amp; development    </tspan><tspan fill="#8A8676">senior-only</tspan></text><text class="l3 mono" x="104" y="230" font-size="18" xml:space="preserve"><tspan fill="#565449">  ✓ </tspan><tspan fill="#11120D">ai integration          </tspan><tspan fill="#8A8676">production-ready</tspan></text><text class="l4 mono" x="104" y="264" font-size="18" xml:space="preserve"><tspan fill="#565449">  ✓ </tspan><tspan fill="#11120D">launch &amp; support        </tspan><tspan fill="#8A8676">24/7</tspan></text><text class="l5 mono" x="104" y="298" font-size="18" xml:space="preserve"><tspan fill="#565449">  ✓ </tspan><tspan fill="#11120D">code &amp; ip               </tspan><tspan fill="#8A8676">yours</tspan></text><text class="l7 mono" x="104" y="366" font-size="18" xml:space="preserve"><tspan fill="#11120D">  → ready. start at </tspan><tspan fill="#565449" text-decoration="underline">dimensitylabs.dev</tspan></text><g class="l8"><text x="104" y="400" class="mono" font-size="18" fill="#8A8676">$</text><rect class="blink" x="125.6" y="383" width="10" height="22" fill="#11120D"/></g>
+</svg>

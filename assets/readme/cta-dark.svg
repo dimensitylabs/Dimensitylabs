@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="470" viewBox="0 0 1280 470" role="img" aria-label="Got an idea? Let's build it. Start a project — hello@dimensitylabs.dev">
+<style>
+.serif{font-family:'Cormorant Garamond',Cormorant,Georgia,'Times New Roman',serif}
+.sans{font-family:Syne,'Helvetica Neue',Helvetica,Arial,sans-serif}
+.mono{font-family:'JetBrains Mono','SF Mono',SFMono-Regular,Menlo,Consolas,monospace}
+
+.nudge{animation:nudge 1.6s ease-in-out infinite}
+@keyframes nudge{0%,100%{transform:translateX(0)}50%{transform:translateX(7px)}}
+.blink{animation:blink 1.1s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect width="1280" height="470" fill="#FFFBF4"/>
+<text x="64" y="72" class="mono" font-size="12" letter-spacing="2" fill="#565449">05 / START A PROJECT</text>
+<text x="1216" y="72" text-anchor="end" class="mono" font-size="12" letter-spacing="2" fill="#565449">NDA-FIRST — YOU OWN THE IP</text>
+<text x="54" y="218" class="serif" font-size="124" font-weight="300" fill="#11120D">Got an idea?</text>
+<text x="54" y="344" class="serif" font-size="124" font-weight="300" font-style="italic" fill="#565449">Let's build it.</text>
+<rect x="888.5" y="286.5" width="327" height="63" rx="3" fill="#11120D"/>
+<text x="918" y="324" class="sans" font-size="14" font-weight="700" letter-spacing="3.5" fill="#FFFBF4">START A PROJECT</text>
+<g class="nudge"><path d="M1160 318H1188M1179 309l9 9-9 9" fill="none" stroke="#FFFBF4" stroke-width="1.8"/></g>
+<line x1="64" y1="398.5" x2="1216" y2="398.5" stroke="#D8CFBC"/>
+<text x="64" y="436" class="mono" font-size="14" fill="#11120D">hello@dimensitylabs.dev<tspan class="blink">_</tspan></text>
+<text x="1216" y="436" text-anchor="end" class="mono" font-size="14" fill="#11120D">dimensitylabs.dev  ↗</text>
+</svg>

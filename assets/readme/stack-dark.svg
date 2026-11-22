@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="380" viewBox="0 0 1280 380" role="img" aria-label="Stack — React · Next.js · TypeScript · Node.js · GraphQL · Tailwind · PostgreSQL · AWS · Vercel · Stripe · OpenAI · Anthropic">
+<style>
+.serif{font-family:'Cormorant Garamond',Cormorant,Georgia,'Times New Roman',serif}
+.sans{font-family:Syne,'Helvetica Neue',Helvetica,Arial,sans-serif}
+.mono{font-family:'JetBrains Mono','SF Mono',SFMono-Regular,Menlo,Consolas,monospace}
+.hl{animation:hl 9.6s step-end infinite}@keyframes hl{0.00%{transform:translate(0px,0px)}8.33%{transform:translate(192px,0px)}16.67%{transform:translate(384px,0px)}25.00%{transform:translate(576px,0px)}33.33%{transform:translate(768px,0px)}41.67%{transform:translate(960px,0px)}50.00%{transform:translate(0px,80px)}58.33%{transform:translate(192px,80px)}66.67%{transform:translate(384px,80px)}75.00%{transform:translate(576px,80px)}83.33%{transform:translate(768px,80px)}91.67%{transform:translate(960px,80px)}100%{transform:translate(960px,80px)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect width="1280" height="380" fill="#11120D"/>
+<text x="64" y="72" class="mono" font-size="12" letter-spacing="2" fill="#8A8676">04 / STACK</text>
+<text x="1216" y="72" text-anchor="end" class="mono" font-size="12" letter-spacing="2" fill="#8A8676">TWELVE TOOLS — ZERO LOCK-IN</text>
+<text x="60" y="142" class="serif" font-size="62" font-weight="300" fill="#FFFBF4">Tools we <tspan font-style="italic" fill="#D8CFBC">trust.</tspan></text>
+<line x1="64" y1="170.5" x2="1216" y2="170.5" stroke="#2E2F28"/>
+<g class="hl"><rect x="64.5" y="196.5" width="192" height="80" fill="#22231C" stroke="#FFFBF4" stroke-width="1.5"/>
+<rect x="242" y="206" width="6" height="6" fill="#FFFBF4"/></g>
+<rect x="64.5" y="196.5" width="192" height="80" fill="none" stroke="#2E2F28"/>
+<text x="80" y="220" class="mono" font-size="11" fill="#8A8676">01</text>
+<text x="80" y="256" class="sans" font-size="19" fill="#FFFBF4">React</text><rect x="256.5" y="196.5" width="192" height="80" fill="none" stroke="#2E2F28"/>
+<text x="272" y="220" class="mono" font-size="11" fill="#8A8676">02</text>
+<text x="272" y="256" class="sans" font-size="19" fill="#FFFBF4">Next.js</text><rect x="448.5" y="196.5" width="192" height="80" fill="none" stroke="#2E2F28"/>
+<text x="464" y="220" class="mono" font-size="11" fill="#8A8676">03</text>
+<text x="464" y="256" class="sans" font-size="19" fill="#FFFBF4">TypeScript</text><rect x="640.5" y="196.5" width="192" height="80" fill="none" stroke="#2E2F28"/>
+<text x="656" y="220" class="mono" font-size="11" fill="#8A8676">04</text>
+<text x="656" y="256" class="sans" font-size="19" fill="#FFFBF4">Node.js</text><rect x="832.5" y="196.5" width="192" height="80" fill="none" stroke="#2E2F28"/>
+<text x="848" y="220" class="mono" font-size="11" fill="#8A8676">05</text>
+<text x="848" y="256" class="sans" font-size="19" fill="#FFFBF4">GraphQL</text><rect x="1024.5" y="196.5" width="192" height="80" fill="none" stroke="#2E2F28"/>
+<text x="1040" y="220" class="mono" font-size="11" fill="#8A8676">06</text>
+<text x="1040" y="256" class="sans" font-size="19" fill="#FFFBF4">Tailwind</text><rect x="64.5" y="276.5" width="192" height="80" fill="none" stroke="#2E2F28"/>
+<text x="80" y="300" class="mono" font-size="11" fill="#8A8676">07</text>
+<text x="80" y="336" class="sans" font-size="19" fill="#FFFBF4">PostgreSQL</text><rect x="256.5" y="276.5" width="192" height="80" fill="none" stroke="#2E2F28"/>
+<text x="272" y="300" class="mono" font-size="11" fill="#8A8676">08</text>
+<text x="272" y="336" class="sans" font-size="19" fill="#FFFBF4">AWS</text><rect x="448.5" y="276.5" width="192" height="80" fill="none" stroke="#2E2F28"/>
+<text x="464" y="300" class="mono" font-size="11" fill="#8A8676">09</text>
+<text x="464" y="336" class="sans" font-size="19" fill="#FFFBF4">Vercel</text><rect x="640.5" y="276.5" width="192" height="80" fill="none" stroke="#2E2F28"/>
+<text x="656" y="300" class="mono" font-size="11" fill="#8A8676">10</text>
+<text x="656" y="336" class="sans" font-size="19" fill="#FFFBF4">Stripe</text><rect x="832.5" y="276.5" width="192" height="80" fill="none" stroke="#2E2F28"/>
+<text x="848" y="300" class="mono" font-size="11" fill="#8A8676">11</text>
+<text x="848" y="336" class="sans" font-size="19" fill="#FFFBF4">OpenAI</text><rect x="1024.5" y="276.5" width="192" height="80" fill="none" stroke="#2E2F28"/>
+<text x="1040" y="300" class="mono" font-size="11" fill="#8A8676">12</text>
+<text x="1040" y="336" class="sans" font-size="19" fill="#FFFBF4">Anthropic</text>
+</svg>

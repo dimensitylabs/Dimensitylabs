@@ -1,97 +1,54 @@
-<div align="center">
+<a href="https://dimensitylabs.dev">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/readme/hero-dark.svg">
+    <img src="./assets/readme/hero-light.svg" width="100%" alt="Dimensity Labs — Digital products, built with integrity. Founded 2025 · 10+ founding clients · 100% senior team · 24/7 coverage">
+  </picture>
+</a>
 
-<a href="https://dimensitylabs.dev"><img src="./assets/hero.svg" width="100%" alt="Dimensity Labs — Built with Integrity"/></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/readme/marquee-dark.svg">
+  <img src="./assets/readme/marquee-light.svg" width="100%" alt="Web development · Mobile apps · AI integration · Design & UX · Built with integrity">
+</picture>
 
-<br/>
+<p align="center">
+  <a href="https://dimensitylabs.dev"><b>Website</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/company/dimensitylabs"><b>LinkedIn</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://x.com/dimensitylabs"><b>X</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:hello@dimensitylabs.dev"><b>hello@dimensitylabs.dev</b></a>
+</p>
 
-<a href="https://dimensitylabs.dev"><img src="https://img.shields.io/badge/dimensitylabs.dev-06060A?style=for-the-badge&logo=googlechrome&logoColor=5EF2FF" alt="Website"/></a>
-<a href="https://www.linkedin.com/company/dimensitylabs"><img src="https://img.shields.io/badge/LinkedIn-06060A?style=for-the-badge&logo=linkedin&logoColor=C9B8FF" alt="LinkedIn"/></a>
-<a href="https://x.com/dimensitylabs"><img src="https://img.shields.io/badge/@dimensitylabs-06060A?style=for-the-badge&logo=x&logoColor=FFFFFF" alt="X"/></a>
-<a href="mailto:hello@dimensitylabs.dev"><img src="https://img.shields.io/badge/hello@dimensitylabs.dev-06060A?style=for-the-badge&logo=maildotru&logoColor=3DFFA2" alt="Email"/></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/readme/capabilities-dark.svg">
+  <img src="./assets/readme/capabilities-light.svg" width="100%" alt="What we build — Web · Mobile · AI integration · Design & UX">
+</picture>
 
-<br/><br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/readme/method-dark.svg">
+  <img src="./assets/readme/method-light.svg" width="100%" alt="How we work — 01 Discover · 02 Design · 03 Deliver">
+</picture>
 
-### We build software in more dimensions than one.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/readme/terminal-dark.svg">
+  <img src="./assets/readme/terminal-light.svg" width="100%" alt="$ npx dimensity init your-idea — scoped, senior-only, production-ready, 24/7, and the code is yours">
+</picture>
 
-A small, senior-only studio turning ideas into **web, mobile and AI-powered products** —
-founders on every project, from the first wireframe to production.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/readme/integrity-dark.svg">
+  <img src="./assets/readme/integrity-light.svg" width="100%" alt="What you can count on — Senior-only · You own everything · NDA-first · Compliant by default · Full transparency">
+</picture>
 
-<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/readme/stack-dark.svg">
+  <img src="./assets/readme/stack-light.svg" width="100%" alt="Stack — React · Next.js · TypeScript · Node.js · GraphQL · Tailwind · PostgreSQL · AWS · Vercel · Stripe · OpenAI · Anthropic">
+</picture>
 
-<img src="./assets/stats.svg" width="100%" alt="Est. 2025 · 10+ founding clients · 100% senior team · 24/7 coverage"/>
+<a href="https://dimensitylabs.dev">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/readme/cta-dark.svg">
+    <img src="./assets/readme/cta-light.svg" width="100%" alt="Got an idea? Let's build it. Start a project at dimensitylabs.dev">
+  </picture>
+</a>
 
-<br/><br/>
-
-<img src="./assets/services.svg" width="100%" alt="Web · Mobile · AI Integration · Design & UX"/>
-
-<br/><br/>
-
-<img src="./assets/process.svg" width="100%" alt="Discover → Design → Deliver"/>
-
-<br/><br/>
-
-<img src="./assets/timeline.svg" width="100%" alt="Mission log: Day 0 → founding clients → now → next → horizon"/>
-
-<br/><br/>
-
-## `> stack --list`
-
-<img src="https://img.shields.io/badge/React-0E0E16?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Next.js-0E0E16?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/TypeScript-0E0E16?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
-<img src="https://img.shields.io/badge/Node.js-0E0E16?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E"/>
-<img src="https://img.shields.io/badge/GraphQL-0E0E16?style=for-the-badge&logo=graphql&logoColor=E10098"/>
-<img src="https://img.shields.io/badge/Tailwind-0E0E16?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4"/>
-<br/>
-<img src="https://img.shields.io/badge/PostgreSQL-0E0E16?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
-<img src="https://img.shields.io/badge/AWS-0E0E16?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900"/>
-<img src="https://img.shields.io/badge/Vercel-0E0E16?style=for-the-badge&logo=vercel&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Stripe-0E0E16?style=for-the-badge&logo=stripe&logoColor=635BFF"/>
-<img src="https://img.shields.io/badge/Auth.js-0E0E16?style=for-the-badge&logo=auth0&logoColor=C9B8FF"/>
-<img src="https://img.shields.io/badge/Anthropic-0E0E16?style=for-the-badge&logo=anthropic&logoColor=D97757"/>
-<img src="https://img.shields.io/badge/OpenAI-0E0E16?style=for-the-badge&logo=openai&logoColor=FFFFFF"/>
-
-<br/><br/>
-
-## `> cat principles.md`
-
-</div>
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-**🛡️ Built with integrity**<br/>
-NDA-first. You own the IP. No vendor lock-in, full transparency at every step.
-
-</td>
-<td width="33%" valign="top">
-
-**🧠 Senior-only, always**<br/>
-No junior rotation. Founders and leads write, review and ship your product.
-
-</td>
-<td width="33%" valign="top">
-
-**⚙️ Production-grade**<br/>
-Enterprise-grade security, GDPR &amp; CCPA aware, rigorous QA before anything ships.
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<br/>
-
-## `> ./start-a-project.sh`
-
-**Got an idea? Let's build it.**
-
-<a href="https://dimensitylabs.dev"><img src="https://img.shields.io/badge/Start_a_project_→-7C5CFF?style=for-the-badge&logoColor=FFFFFF" alt="Start a project"/></a>
-
-<br/><br/>
-
-<img src="./assets/footer.svg" width="100%" alt="Honest. Senior-only. No shortcuts."/>
-
-</div>
+<p align="center">
+  <sub>Dimensity Labs™ — Honest. Senior-only. No shortcuts.</sub>
+</p>
