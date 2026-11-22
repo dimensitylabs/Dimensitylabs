@@ -1,120 +1,97 @@
-# Dimensity Labs
+<div align="center">
 
-[![Website](https://img.shields.io/badge/Website-[DIMENSITYLABS_URL]-11120D?style=flat-square)]([DIMENSITYLABS_URL])
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dimensity_Labs-565449?style=flat-square&logo=linkedin)](https://linkedin.com/company/[LINKEDIN_HANDLE])
-[![Twitter](https://img.shields.io/badge/Twitter-@[TWITTER_HANDLE]-D8CFBC?style=flat-square&logo=twitter)](https://twitter.com/[TWITTER_HANDLE])
-[![Email](https://img.shields.io/badge/Email-hello@dimensitylabs.dev-FFFBF4?style=flat-square)](mailto:hello@dimensitylabs.dev)
+<a href="https://dimensitylabs.dev"><img src="./assets/hero.svg" width="100%" alt="Dimensity Labs — Built with Integrity"/></a>
 
-> Digital products built with clarity, craft, and intention.
+<br/>
 
----
+<a href="https://dimensitylabs.dev"><img src="https://img.shields.io/badge/dimensitylabs.dev-06060A?style=for-the-badge&logo=googlechrome&logoColor=5EF2FF" alt="Website"/></a>
+<a href="https://www.linkedin.com/company/dimensitylabs"><img src="https://img.shields.io/badge/LinkedIn-06060A?style=for-the-badge&logo=linkedin&logoColor=C9B8FF" alt="LinkedIn"/></a>
+<a href="https://x.com/dimensitylabs"><img src="https://img.shields.io/badge/@dimensitylabs-06060A?style=for-the-badge&logo=x&logoColor=FFFFFF" alt="X"/></a>
+<a href="mailto:hello@dimensitylabs.dev"><img src="https://img.shields.io/badge/hello@dimensitylabs.dev-06060A?style=for-the-badge&logo=maildotru&logoColor=3DFFA2" alt="Email"/></a>
 
-## What We Do
+<br/><br/>
 
-**Dimensity Labs** is a Mumbai-based digital product studio building [B2B SaaS platforms](#), [consumer mobile applications](#), and [AI-powered systems](#) for companies that value engineering precision and design craft.
+### We build software in more dimensions than one.
 
-We specialize in taking projects from [0 → 1](#) — turning ambiguous requirements into production-grade software through disciplined process and obsessive attention to detail.
+A small, senior-only studio turning ideas into **web, mobile and AI-powered products** —
+founders on every project, from the first wireframe to production.
 
-### Core Capabilities
+<br/>
 
-| Domain | What We Build |
-|--------|---------------|
-| **Web** | High-performance Next.js applications with Awwwards-level animation and interaction design |
-| **Mobile** | React Native apps that feel native — smooth gestures, offline-first architecture, push notifications |
-| **AI Systems** | Claude API integrations, RAG pipelines, automation agents, and AI-augmented workflows |
-| **Brand Identity** | Visual systems, component libraries, and design tokens that scale |
-| **Strategy** | Technical architecture reviews, product roadmapping, and engineering team augmentation |
+<img src="./assets/stats.svg" width="100%" alt="Est. 2025 · 10+ founding clients · 100% senior team · 24/7 coverage"/>
 
----
+<br/><br/>
 
-## Tech Stack
+<img src="./assets/services.svg" width="100%" alt="Web · Mobile · AI Integration · Design & UX"/>
 
-```
-Frontend    →  Next.js 15 · React 18 · TypeScript · Tailwind CSS
-Animation   →  GSAP · Framer Motion · Lenis Smooth Scroll
-Backend     →  [Node.js · Python · Go] — context-dependent
-Mobile      →  React Native · Expo
-AI/ML       →  Claude API · LangChain · Vector DBs (Pinecone · Supabase)
-Design      →  Figma · Radix UI · shadcn/ui
-DevOps      →  Vercel · GitHub Actions · Docker · [AWS/GCP]
-```
+<br/><br/>
 
----
+<img src="./assets/process.svg" width="100%" alt="Discover → Design → Deliver"/>
 
-## Featured Projects
+<br/><br/>
 
-### [Project Alpha](#)
-**[One-line description of what this product does]**
+<img src="./assets/timeline.svg" width="100%" alt="Mission log: Day 0 → founding clients → now → next → horizon"/>
 
-- Stack: `[Tech stack used]`
-- Highlights: `[Key technical or design achievement]`
-- Status: `[Live / Beta / In Development]`
+<br/><br/>
 
-### [Project Beta](#)
-**[One-line description of what this product does]**
+## `> stack --list`
 
-- Stack: `[Tech stack used]`
-- Highlights: `[Key technical or design achievement]`
-- Status: `[Live / Beta / In Development]`
+<img src="https://img.shields.io/badge/React-0E0E16?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-0E0E16?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/TypeScript-0E0E16?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+<img src="https://img.shields.io/badge/Node.js-0E0E16?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E"/>
+<img src="https://img.shields.io/badge/GraphQL-0E0E16?style=for-the-badge&logo=graphql&logoColor=E10098"/>
+<img src="https://img.shields.io/badge/Tailwind-0E0E16?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4"/>
+<br/>
+<img src="https://img.shields.io/badge/PostgreSQL-0E0E16?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
+<img src="https://img.shields.io/badge/AWS-0E0E16?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/Vercel-0E0E16?style=for-the-badge&logo=vercel&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Stripe-0E0E16?style=for-the-badge&logo=stripe&logoColor=635BFF"/>
+<img src="https://img.shields.io/badge/Auth.js-0E0E16?style=for-the-badge&logo=auth0&logoColor=C9B8FF"/>
+<img src="https://img.shields.io/badge/Anthropic-0E0E16?style=for-the-badge&logo=anthropic&logoColor=D97757"/>
+<img src="https://img.shields.io/badge/OpenAI-0E0E16?style=for-the-badge&logo=openai&logoColor=FFFFFF"/>
 
-### [Project Gamma](#)
-**[One-line description of what this product does]**
+<br/><br/>
 
-- Stack: `[Tech stack used]`
-- Highlights: `[Key technical or design achievement]`
-- Status: `[Live / Beta / In Development]`
+## `> cat principles.md`
 
----
+</div>
 
-## Design Philosophy
+<table>
+<tr>
+<td width="33%" valign="top">
 
-We believe software should feel **crafted**, not manufactured. Every project follows four principles:
+**🛡️ Built with integrity**<br/>
+NDA-first. You own the IP. No vendor lock-in, full transparency at every step.
 
-1. **Performance is a feature** — Core Web Vitals are non-negotiable. We ship sites that score 95+ on Lighthouse.
+</td>
+<td width="33%" valign="top">
 
-2. **Animation serves UX** — Motion guides attention, provides feedback, and creates spatial understanding. We use GSAP and Framer Motion for scroll-triggered reveals, micro-interactions, and cinematic page transitions.
+**🧠 Senior-only, always**<br/>
+No junior rotation. Founders and leads write, review and ship your product.
 
-3. **Accessibility by default** — `prefers-reduced-motion` respected. Keyboard navigation. Semantic markup. ARIA when necessary.
+</td>
+<td width="33%" valign="top">
 
-4. **Clean abstraction** — We maintain a strict separation between animation logic and component structure. Reusable hooks. Minimal dependencies. Code that survives handoffs.
+**⚙️ Production-grade**<br/>
+Enterprise-grade security, GDPR &amp; CCPA aware, rigorous QA before anything ships.
 
----
+</td>
+</tr>
+</table>
 
-## Open Source
+<div align="center">
 
-We contribute to and maintain tools that power our work:
+<br/>
 
-| Package | Description | Stars |
-|---------|-------------|-------|
-| `[package-name]` | `[One-line description]` | [![GitHub stars](https://img.shields.io/github/stars/dimensitylabs/[package])](#) |
+## `> ./start-a-project.sh`
 
-*[View all repositories →](https://github.com/orgs/dimensitylabs/repositories)*
+**Got an idea? Let's build it.**
 
----
+<a href="https://dimensitylabs.dev"><img src="https://img.shields.io/badge/Start_a_project_→-7C5CFF?style=for-the-badge&logoColor=FFFFFF" alt="Start a project"/></a>
 
-## Work With Us
+<br/><br/>
 
-### For Clients
+<img src="./assets/footer.svg" width="100%" alt="Honest. Senior-only. No shortcuts."/>
 
-We partner with [startup founders](#) and [product teams](#) who need senior engineering and design execution. Our typical engagement is [4–12 weeks](#), focused on MVPs, redesigns, or AI integration.
-
-**[Start a project →](mailto:hello@dimensitylabs.dev)**
-
-### For Developers
-
-We're selective about team growth. If you write clean TypeScript, care deeply about UI craft, and can explain why `transform` beats `top/left` for animations, [we should talk](mailto:careers@dimensitylabs.dev).
-
----
-
-## Connect
-
-- **Website:** [dimensitylabs.dev]([DIMENSITYLABS_URL])
-- **Email:** [hello@dimensitylabs.dev](mailto:hello@dimensitylabs.dev)
-- **LinkedIn:** [linkedin.com/company/[LINKEDIN_HANDLE]](https://linkedin.com/company/[LINKEDIN_HANDLE])
-- **Twitter:** [@[TWITTER_HANDLE]](https://twitter.com/[TWITTER_HANDLE])
-
----
-
-<p align="center">
-  <sub>Built in Mumbai. Shipping worldwide.</sub>
-</p>
+</div>
